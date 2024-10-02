@@ -21,7 +21,7 @@ Il y a à ma connaissance deux livres sur le sujet.
 La découpeuse laser accepte des fichier au format SVG. Ce sont des fichiers textes qui décrivent les points, courbes et chemins
 composant un dessin. 
 
-Le [programme](file:.//touslessangakus.py) fabrique ces fichiers texte en fonction du dessin à réaliser, en utilisant des fonctions de base (triangle, cercles ...)
+Le [programme](./touslessangakus.py) fabrique ces fichiers texte en fonction du dessin à réaliser, en utilisant des fonctions de base (triangle, cercles ...)
 
 Plusieurs sangakus sont définis dans le fichier, et l'exécution du programme les génère tous, dans des fichiers séparés. 
 
