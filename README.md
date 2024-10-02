@@ -19,7 +19,7 @@ Il y a à ma connaissance deux livres sur le sujet.
 	
 ## Le programme
 
-La découpeuse laser accepte des fichier au format SVG. Ce sont des fichiers textes qui décrivent les points, courbes et chemins
+La découpeuse laser accepte des fichiers au format SVG. Ce sont des fichiers textes qui décrivent les points, courbes et chemins
 composant un dessin. 
 
 Le [programme](./touslessangakus.py) fabrique ces fichiers texte en fonction du dessin à réaliser, en utilisant des fonctions de base (triangle, cercles ...)
