@@ -1,5 +1,6 @@
 # Créer des sangaku à l'aide d'une découpeuse laser
 
+*Ce projet est un premier essai de publication de projet 'maker', vous pouvez m'adresser vos remarques : fdecomite@gmail.com*
 ## Définition
 
 Les sangakus sont des problèmes mathématiques (très souvent géométriques) que les fidèles déposaient dans les temples au
