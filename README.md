@@ -27,3 +27,5 @@ Plusieurs sangakus sont définis dans le fichier, et l'exécution du programme l
 
 Si programmer, ça vous gonfle, j'ai mis aussi les fichiers SVG tout prêts [ici]()
 
+Si programmer, ça vous gonfle, j'ai mis aussi les fichiers SVG tout prêts [ici](./sangakusfinis/)
+
