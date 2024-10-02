@@ -58,6 +58,10 @@ def equilateralPenche(c=TAILLE,transform=""):
     return "<polygon  points=\""+str(c)+" 0 ,"+str(b)+" "+str(c)+" ,  0 "+str(a)+" \" fill=\"none\" stroke=\"red\" transform="+transform+"/>\n"
 
 def sangakupb36page114(a=TAILLE):
+    """
+    Un carré, un triangle équilatéral et des cercles. 
+    Quels sont les rayons des cercles ? 
+    """
     entete="<svg viewBox=\"0 0 "+str(2*a)+" "+str(2*a)+"\" xmlns=\"http://www.w3.org/2000/svg\">\n"
     pied="</svg>\n"
     image=open("sangakuPB36page114test.svg","w")
@@ -100,6 +104,10 @@ def readSteiner(c=TAILLE,filename="steiner.txt"):
     
 
 def sangakupb9Page96(a=TAILLE):
+    """
+    Deux carrés, un cercle. Le petit carré et le cercle ont la même surface. *
+    Quel est le rayon du cercle ? 
+    """
     entete="<svg viewBox=\"0 0 "+str(2*a)+" "+str(2*a)+"\" xmlns=\"http://www.w3.org/2000/svg\">\n"
     pied="</svg>\n"
     image=open("sangakupb9Page96test.svg","w")
@@ -115,6 +123,10 @@ def sangakupb9Page96(a=TAILLE):
     image.close()
 
 def sangakupb10Page152(a=TAILLE):
+    """
+    Un carré, un triangle équilatéral et deux cercles égaux
+    Quel est le rayin des cercles ? 
+    """
     entete="<svg viewBox=\"0 0 "+str(2*a)+" "+str(2*a)+"\" xmlns=\"http://www.w3.org/2000/svg\">\n"
     pied="</svg>\n"
     image=open("sangakuPB10page152test.svg","w")
@@ -146,6 +158,10 @@ def sangakupb10Page152(a=TAILLE):
      	
 
 def sangaku(c=TAILLE):
+    """
+    Un carré, deux triangles équilatéraux. 
+    Quel est le rapport entre les rayons des deux cercles ? 
+    """
     entete="<svg viewBox=\"0 0 "+str(2*c)+" "+str(2*c)+"\" xmlns=\"http://www.w3.org/2000/svg\">\n"
     pied="</svg>\n"
     image=open("sangakuOriginaltest.svg","w")
