@@ -25,7 +25,6 @@ Le [programme](./touslessangakus.py) fabrique ces fichiers texte en fonction du 
 
 Plusieurs sangakus sont définis dans le fichier, et l'exécution du programme les génère tous, dans des fichiers séparés. 
 
-Si programmer, ça vous gonfle, j'ai mis aussi les fichiers SVG tout prêts [ici]()
 
 Si programmer, ça vous gonfle, j'ai mis aussi les fichiers SVG tout prêts [ici](./sangakusfinis/)
 
