@@ -15,7 +15,7 @@ Il y a à ma connaissance deux livres sur le sujet.
 	Disponible plus ou moins [légalement en ligne](https://archive.org/details/fukakgawa-hidetoshi-sacred-mathematics-japanese-temple-geometry)
 - Le second en français :
 
-	**Sangaku - Le mystère des énigmes géométriques japonaises ** écrite par Gery Huvent, actuellement indisponible.
+	**Sangaku - Le mystère des énigmes géométriques japonaises**  écrit par Gery Huvent, actuellement indisponible.
 	
 ## Le programme
 
