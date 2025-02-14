@@ -1,5 +1,7 @@
 # Créer des sangaku à l'aide d'une découpeuse laser
 
+*Edit:* J'ai rajouté le programme _eventail.py_ qui construit un squelete pour un sangaku en arc de cercle. 
+
 *Ce projet est un premier essai de publication de projet 'maker', vous pouvez m'adresser vos remarques : fdecomite@gmail.com*
 ## Définition
 
