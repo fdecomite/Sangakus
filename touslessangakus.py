@@ -6,27 +6,27 @@ def decalage(c,percent=pourcentage):
     return "\"translate("+str(c*percent)+","+str(c*percent)+")\""
 
 #grouper deux rectangles pour définir le cadre
-def rectangle(c=TAILLE,percent=pourcentage,transform=""):
+def rectangle(c=TAILLE,percent=pourcentage,transform="\"\""):
     s="<g> <rect x=\""+str(percent*c)+"\" y=\""+str(c*percent)+"\" width=\""+str(c)+"\" height=\""+str(c)+"\" fill=\"none\" stroke=\"red\" transform="+transform+ "/>\n"
     print(s)
     sprime="<rect x=\"0\" width=\""+str(c*(1+2*percent))+"\" height=\""+str(c*(1+2*percent))+"\" rx=\"25\" fill=\"none\" stroke=\"red\" transform="+transform+ "/></g>\n"
     print(sprime)
     return s+"<rect x=\"0\" width=\""+str(c*(1+2*percent))+"\" height=\""+str(c*(1+2*percent))+"\" rx=\"25\" fill=\"none\" stroke=\"red\" transform="+transform+ "/></g>\n"
 
-def simplerectangle(c=TAILLE,percent=pourcentage,transform=""):
+def simplerectangle(c=TAILLE,percent=pourcentage,transform="\"\""):
     s="<rect x=\""+str(0)+"\" y=\""+str(0)+"\" width=\""+str(c)+"\" height=\""+str(c)+"\" fill=\"none\" stroke=\"red\" transform="+transform+ "/>\n"
     return s
 
-def ligne(debut,fin,transform=""):
+def ligne(debut,fin,transform="\"\""):
      s="<line x1=\""+str(debut[0])+"\" y1=\""+str(debut[1])+"\" x2=\""+str(fin[0])+"\" y2=\""+str(fin[1])+"\" stroke=\"red\"   transform="+transform+" />\n"
      return s
     
 
-def equilateral(c=TAILLE,transform=""):
+def equilateral(c=TAILLE,transform="\"\""):
     hauteur=c*sqrt(3)/2
     return "<polygon points=\"0 "+str(c)+" ,"+str(c/2)+" "+str(c-hauteur)+" , "+str(c)+" "+str(c)+"\" fill=\"none\" stroke=\"red\" transform="+transform+"/>\n"
 
-def cercle(cx,cy,rayon,transform=""):
+def cercle(cx,cy,rayon,transform="\"\""):
     return "<circle cx=\""+str(cx)+"\" cy=\""+str(cy)+"\"  r=\""+str(rayon)+"\" transform="+transform+" fill=\"none\" stroke=\"red\"/>\n"
 
 
@@ -52,7 +52,7 @@ def resoutCercle(p1,p2,p3):
     
 
 
-def equilateralPenche(c=TAILLE,transform=""):
+def equilateralPenche(c=TAILLE,transform="\"\""):
     a=(2-sqrt(3))*c
     b=c-a
     return "<polygon  points=\""+str(c)+" 0 ,"+str(b)+" "+str(c)+" ,  0 "+str(a)+" \" fill=\"none\" stroke=\"red\" transform="+transform+"/>\n"
