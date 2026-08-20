@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="297mm"
+   width="210mm"
+   sodipodi:docname="polyedre.svg"
+   id="svg959"
+   version="1.1"
+   viewBox="0 0 793.70079 1122.5197">
+  <metadata
+     id="metadata965">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs963" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg959"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:cy="459.95459"
+     inkscape:cx="473.79604"
+     inkscape:zoom="0.60104076"
+     units="mm"
+     showgrid="false"
+     id="namedview961"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="matrix(1.5,0,0,1.5,-23.393154,186.97326)"
+     id="g976">
+    <line
+       x1="-359"
+       y1="0"
+       x2="0"
+       y2="0"
+       stroke="#000000"
+       transform="translate(400,200)"
+       id="line941" />
+    <line
+       x1="-359"
+       y1="0"
+       x2="-116.59"
+       y2="70.389999"
+       stroke="#000000"
+       transform="translate(400,200)"
+       id="line943" />
+    <line
+       x1="-116.59"
+       y1="70.389999"
+       x2="0"
+       y2="0"
+       stroke="#000000"
+       transform="translate(400,200)"
+       id="line945" />
+    <line
+       x1="0"
+       y1="0"
+       x2="118.32432"
+       y2="157.4648"
+       stroke="#000000"
+       transform="translate(400,200)"
+       id="line947" />
+    <line
+       x1="-116.59"
+       y1="70.389999"
+       x2="118.32432"
+       y2="157.4648"
+       stroke="#000000"
+       transform="translate(400,200)"
+       id="line949" />
+    <line
+       x1="-359"
+       y1="0"
+       x2="24.7099"
+       y2="277.27426"
+       stroke="#000000"
+       transform="translate(400,200)"
+       id="line951" />
+    <line
+       x1="-116.59"
+       y1="70.389999"
+       x2="24.7099"
+       y2="277.27426"
+       stroke="#000000"
+       transform="translate(400,200)"
+       id="line953" />
+    <line
+       x1="-359"
+       y1="0"
+       x2="78.603752"
+       y2="-180.60248"
+       stroke="#000000"
+       transform="translate(400,200)"
+       id="line955" />
+    <line
+       x1="0"
+       y1="0"
+       x2="78.603752"
+       y2="-180.60248"
+       stroke="#000000"
+       transform="translate(400,200)"
+       id="line957" />
+  </g>
+</svg>
